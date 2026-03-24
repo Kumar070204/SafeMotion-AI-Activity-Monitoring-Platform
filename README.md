@@ -263,8 +263,8 @@ python -m src.rehab.rehabilitation_alcoholic_index
 
 ## 👨‍💻 Author
 
-**Jeeva M**  
-AI / ML Engineer  
+**Kumaraswamy G**  
+ 
 
 **SafeMotion – Intelligent Activity Monitoring System**
 
