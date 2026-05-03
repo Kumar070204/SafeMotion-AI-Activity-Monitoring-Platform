@@ -1,4 +1,3 @@
-# Ecoverse_Team16
 # 🛡️ SafeMotion – AI-Driven Activity Monitoring & Safety Intelligence Platform
 
 SafeMotion is a unified AI-powered activity monitoring platform designed for elderly care, workplace safety, and rehabilitation monitoring.
